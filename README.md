@@ -19,10 +19,6 @@ Check out the live demo: https://the-movie-cinema.herokuapp.com/
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go even though if you made some typo errors.
 
-## 'Invalid Request' Error
-
-If you're getting invalid request error in your application, kindly go through this issue - https://github.com/kishan0725/The-Movie-Cinema/issues/2
-
 ## How to get the API key?
 
 Create an account in https://www.themoviedb.org/, click on the `API` link from the left hand sidebar in your account settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your `API` sidebar once your request is approved.
@@ -30,7 +26,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 ## How to run the project?
 
 1. Clone this repository in your local system.
-2. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/The-Movie-Cinema/blob/master/requirements.txt) file with the command `pip install -r requirements.txt`.
+2. Install all the libraries mentioned in the [requirements.txt](https://github.com/shubhamsrivastava951/Movies-recommendation/blob/main/requirements.txt) file with the command `pip install -r requirements.txt`.
 3. Replace YOUR_API_KEY in **both** the places (line no. 23 and 43) of `static/recommend.js` file.
 4. Open your terminal/command prompt from your project directory and run the `main.py` file by executing the command `python main.py`.
 5. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
