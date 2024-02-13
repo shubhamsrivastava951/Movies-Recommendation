@@ -16,7 +16,5 @@ lxml==4.6.3
 urllib3
 requests==2.23.0
 pickleshare==0.7.5
-wordnet
-pros_cons
-reuters
+
 
