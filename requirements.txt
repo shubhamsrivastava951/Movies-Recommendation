@@ -17,6 +17,5 @@ urllib3==1.26.8
 requests==2.26.0
 pickleshare==0.7.5
 
-python-3.9.*
 
 
